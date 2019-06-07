@@ -3,15 +3,15 @@ This is the fiest blog I writed,there is nothing in it.
 ## photograth
 
 <p>
-<img src="t1.jpg" width="800" height="600" />
+<img src="t1.jpg" width="800" height="500" />
 </p>
 
 <p>
-<img src="t2.jpg" width="800" height="600" />
+<img src="t2.jpg" width="800" height="500" />
 </p>
 
 <p>
-<img src="t3.jpg" width="800" height="600" />
+<img src="t3.jpg" width="800" height="500" />
 </p>
 
 ## 文集
@@ -33,7 +33,7 @@ This is the fiest blog I writed,there is nothing in it.
 我都当是你对我的心意。
 </p>　
 
-<p>　　
+<p>
 我的宿命分两段，未遇见你时，和遇见你以后。
 
 你治好我的忧郁，而后赐我悲伤。
