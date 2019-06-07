@@ -23,6 +23,8 @@ This is the fiest blog I writed,there is nothing in it.
 却骗你说，风雨正好，该去写点诗句。
 </p>
 
+
+
 <p>
 不必嘲讽我，你笑出声来，
 
@@ -33,6 +35,8 @@ This is the fiest blog I writed,there is nothing in it.
 我都当是你对我的心意。
 </p>　
 
+
+
 <p>
 我的宿命分两段，未遇见你时，和遇见你以后。
 
@@ -42,6 +46,8 @@ This is the fiest blog I writed,there is nothing in it.
 
 透支了我生命全部的热情储蓄。
 </p>
+
+
 
 <p>
 想饮一些酒，让灵魂失重，好被风吹走。
