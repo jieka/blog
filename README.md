@@ -9,9 +9,10 @@ This is the fiest blog I writed,there is nothing in it.
 ## 文集
 
 《路人》  西贝
+
 <p>
 不知为何，明明想和你说话,
-
+<br/>
 却骗你说，风雨正好，该去写点诗句。
 </p>
 
@@ -19,11 +20,11 @@ This is the fiest blog I writed,there is nothing in it.
 
 <p>
 不必嘲讽我，你笑出声来，
-
+<br/>
 我也当是天籁。
-
+<br/>
 不必怀有敌意，你所有心计，
-
+<br/>
 我都当是你对我的心意。
 </p>　
 
@@ -31,11 +32,11 @@ This is the fiest blog I writed,there is nothing in it.
 
 <p>
 我的宿命分两段，未遇见你时，和遇见你以后。
-
+<br/>
 你治好我的忧郁，而后赐我悲伤。
-
+<br/>
 忧郁和悲伤之间的片刻欢喜，
-
+<br/>
 透支了我生命全部的热情储蓄。
 </p>
 
@@ -43,10 +44,10 @@ This is the fiest blog I writed,there is nothing in it.
 
 <p>
 想饮一些酒，让灵魂失重，好被风吹走。
-
+<br/>
 可一想到终将是你的路人，
-
+<br/>
 便觉得，沦为整个世界的路人。
-
+<br/>
 风虽大，都绕过我灵魂。
 </p>
