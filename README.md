@@ -3,20 +3,12 @@ This is the fiest blog I writed,there is nothing in it.
 ## photograth
 
 <p>
-<img src="t1.jpg" width="800" height="500" />
-</p>
-
-<p>
-<img src="t2.jpg" width="800" height="500" />
-</p>
-
-<p>
 <img src="t3.jpg" width="800" height="500" />
 </p>
 
 ## 文集
 
-《路人》
+《路人》  西贝
 <p>
 不知为何，明明想和你说话,
 
